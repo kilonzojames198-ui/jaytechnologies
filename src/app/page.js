@@ -20,7 +20,7 @@ const portfolio = [
 ]
 
 const testimonials = [
-  { initials: 'JM', name: 'James Mwangi',   role: 'Principal, Nairobi Academy',    featured: false, text: 'Jay Technologies built our school website in record time. The design was clean, professional, and exactly what we needed. Highly recommend!' },
+  { initials: 'JM', name: 'James Mwangi',   role: 'Principal, Excellence High School Academy',    featured: false, text: 'Jay Technologies built our school website in record time. The design was clean, professional, and exactly what we needed. Highly recommend!' },
   { initials: 'AK', name: 'Aisha Kamau',    role: 'Founder, Spice Garden Restaurant', featured: true,  text: 'Our logo and brand kit exceeded every expectation. The creativity and attention to detail was outstanding. Our customers constantly compliment our branding.' },
   { initials: 'DO', name: 'David Otieno',   role: 'CEO, Techmart Kenya',           featured: false, text: 'Fast, professional, and affordable. They delivered our e-commerce site on time and within budget. The support after launch was exceptional too.' },
 ]
@@ -231,7 +231,7 @@ export default function Home() {
               </div>
               <div className="contact-item">
                 <div className="contact-icon">📧</div>
-                <div><strong>Email</strong><a href="mailto:jaysolutions@email.com">jaysolutions@email.com</a></div>
+                <div><strong>Email</strong><a href="mailto:kilonzojames198@gmail.com">kilonzojames198@gmail.com</a></div>
               </div>
               <a href="https://wa.me/254706886473" className="whatsapp-btn" target="_blank" rel="noopener noreferrer">
                 <WhatsAppIcon /> Chat on WhatsApp
@@ -275,7 +275,7 @@ export default function Home() {
             <p className="footer-copy">&copy; {new Date().getFullYear()} Jay Technologies. All Rights Reserved.</p>
             <div className="footer-socials">
               <a href="https://wa.me/254706886473" target="_blank" rel="noopener noreferrer">WhatsApp</a>
-              <a href="mailto:jaysolutions@email.com">Email</a>
+              <a href="mailto:kilonzojames198@gmail.com">Email</a>
             </div>
           </div>
         </div>
